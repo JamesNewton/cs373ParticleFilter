@@ -9,6 +9,7 @@ The open circle is the "ghost" and shows the average of the particle postitions 
 The ghost is a litte more than 10 units away from the actual position of the robot, and it's orientation is 0.018 rads off.
 Each particle is a little red triangle. There are actually 20 in this, but most are concentrated in the same location.
 The 4 green circles are the landmarks.
+
 <img src="sample1.png">
 
 The code that generated this simulation is:
